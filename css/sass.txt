@@ -1,0 +1,13 @@
+Add extension live sass compailer
+Create file scss
+Must then run sass extension Watching
+
+
+import and export;
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "compressed",
+			"extensionName": ".css",
+			"savePath": null,
+			"savePathReplacementPairs": "/dist"
+        }
